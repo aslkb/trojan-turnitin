@@ -7,4 +7,4 @@
 
 This repo provides you with all prompts and instructions to fool Turnitin and get low AI %
 
- <img alt="Animated pixel-art Hatsune Miku" src="imgs/turnitn-orz" align="center" />
+ <img alt="ORZ Turnitin" src="imgs/turnitn-orz.jpg" align="center" />
