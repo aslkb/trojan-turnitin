@@ -7,4 +7,4 @@
 
 This repo provides you with all prompts and instructions to fool Turnitin and get low AI %
 
- <img alt="ORZ Turnitin" src="imgs/turnitn-orz.jpg" align="center" />
+![ORZ Turnitin](imgs/turnitin-orz.jpg?raw=true "orzorz")
